@@ -19,6 +19,5 @@
 ## 사이드바 추가
 
 #rebase 연습1
-
-# rebase 연습2
+#rebase 연습2
 
