@@ -9,5 +9,3 @@
 # 네비게이션
 - navigation.md 파일 추가 
 
-## 푸터
-- footer.md 파일 추가
